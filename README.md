@@ -54,4 +54,6 @@ openclaude
 ```
 **For Linux/macOS users: If you get a permission error, you may need to run** 
 
-*sudo npm install -g @gitlawb/openclaude*
+```
+sudo npm install -g @gitlawb/openclaude
+```
