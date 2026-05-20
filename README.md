@@ -1,4 +1,4 @@
-# 🤖 Claude Code: Android & PC Setup
+# 🤖 OpenClaude: Android & PC Setup
 
 Welcome to the ultimate streamlined setup guide for running **OpenClaude** directly from your terminal. 
 
@@ -52,4 +52,6 @@ npm install -g @gitlawb/openclaude
 ```
 openclaude
 ```
-**For Linux/macOS users: If you get a permission error, you may need to run *sudo npm install -g @gitlawb/openclaude*.**
+**For Linux/macOS users: If you get a permission error, you may need to run** 
+
+*sudo npm install -g @gitlawb/openclaude*
